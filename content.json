@@ -1,0 +1,385 @@
+{
+  "contact": {
+    "phone": "+91 89481 16600",
+    "phoneHref": "tel:+918948116600",
+    "whatsapp": "918948116600",
+    "email": "dr.abhisheksinha.mds@gmail.com",
+    "address": "UGF-36, Regal Plaza, Sector-16, Indira Nagar, Lucknow – 226016",
+    "location": "Indira Nagar, Lucknow",
+    "weekdayHours": "Monday–Saturday: 5:30 PM–9:00 PM",
+    "sundayHours": "Sunday: 10:00 AM–1:00 PM"
+  },
+  "services": [
+    {
+      "slug": "dental-fillings",
+      "title": "Dental Fillings",
+      "short": "Restore a tooth affected by decay or minor damage.",
+      "intro": "Restore a tooth affected by decay or minor damage.",
+      "paragraphs": [
+        "A filling replaces the damaged part of a tooth after decay has been removed. The aim is to restore its shape and everyday function while preserving healthy tooth structure.",
+        "An examination helps establish the extent of decay. Your dentist will discuss the filling material, comfort measures and care needed afterwards."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Tooth decay, small cavities or a chipped tooth that needs assessment.",
+      "icon": "tooth",
+      "image": "images/dentistry-equipment.jpg",
+      "alt": "Dental instruments and treatment equipment"
+    },
+    {
+      "slug": "root-canal-treatment",
+      "title": "Root Canal Treatment",
+      "short": "Care for an infected tooth with a focus on preserving it.",
+      "intro": "Care for an infected tooth with a focus on preserving it.",
+      "paragraphs": [
+        "Root canal treatment addresses inflammation or infection inside a tooth. The canals are cleaned, shaped and sealed, and the tooth may need a crown for protection.",
+        "Your dentist assesses the tooth and may recommend an X-ray before explaining the treatment plan. The number of visits and long-term outlook depend on the condition of the tooth."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Persistent toothache, sensitivity or an infection requiring a dentist’s assessment.",
+      "icon": "tooth",
+      "image": "images/dentistry-care.jpg",
+      "alt": "A dental team providing care in a treatment room"
+    },
+    {
+      "slug": "wisdom-teeth-removal",
+      "title": "Wisdom Teeth Removal",
+      "short": "A considered approach to troublesome wisdom teeth.",
+      "intro": "A considered approach to troublesome wisdom teeth.",
+      "paragraphs": [
+        "Wisdom teeth can sometimes become impacted or difficult to clean. Removal may be considered when they cause recurrent pain, infection or problems with adjacent teeth.",
+        "A clinical examination and imaging help your dentist assess the tooth’s position. The procedure, recovery and potential risks will be explained before treatment."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Pain, swelling or repeated problems around a wisdom tooth.",
+      "icon": "tooth",
+      "image": "images/dentistry-equipment.jpg",
+      "alt": "Dental instruments and treatment equipment"
+    },
+    {
+      "slug": "braces-aligners",
+      "title": "Braces & Aligners",
+      "short": "Explore options for a straighter smile and improved bite.",
+      "intro": "Explore options for a straighter smile and improved bite.",
+      "paragraphs": [
+        "Braces and clear aligners guide teeth into a planned position over time. They may address crowding, spacing or bite concerns, depending on individual needs.",
+        "Orthodontic planning involves examining your teeth and bite. Your dentist will discuss suitable options, expected duration, reviews and retainers to help maintain the result."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Crowded teeth, gaps or concerns about the way your teeth meet.",
+      "icon": "tooth",
+      "image": "images/dentistry-care.jpg",
+      "alt": "A dental team providing care in a treatment room"
+    },
+    {
+      "slug": "dental-implants",
+      "title": "Dental Implants",
+      "short": "Discuss a fixed option for replacing missing teeth.",
+      "intro": "Discuss a fixed option for replacing missing teeth.",
+      "paragraphs": [
+        "Dental implants are placed in the jaw to support replacement teeth. Treatment is planned around your oral health, available bone and the type of restoration you need.",
+        "Assessment may include imaging and a review of your medical history. The dentist will explain suitability, healing stages, alternatives and ongoing maintenance."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "One or more missing teeth and an interest in implant-based replacement.",
+      "icon": "tooth",
+      "image": "images/dentistry-equipment.jpg",
+      "alt": "Dental instruments and treatment equipment"
+    },
+    {
+      "slug": "dentures",
+      "title": "Dentures",
+      "short": "Replace missing teeth with a personalised removable option.",
+      "intro": "Replace missing teeth with a personalised removable option.",
+      "paragraphs": [
+        "Partial or complete dentures replace some or all missing teeth. Their design considers comfort, appearance and everyday activities such as speaking and eating.",
+        "Your dentist examines the mouth and discusses the best approach. Fitting may involve several visits and later adjustments as you become used to your dentures."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Multiple missing teeth or existing dentures that no longer fit comfortably.",
+      "icon": "tooth",
+      "image": "images/dentistry-care.jpg",
+      "alt": "A dental team providing care in a treatment room"
+    },
+    {
+      "slug": "bridges-crowns",
+      "title": "Bridges & Crowns",
+      "short": "Restore and protect teeth, or bridge a gap in your smile.",
+      "intro": "Restore and protect teeth, or bridge a gap in your smile.",
+      "paragraphs": [
+        "A crown covers a damaged tooth, while a bridge can replace a missing tooth using support from neighbouring teeth or implants. The right option depends on the condition of your mouth.",
+        "Your dentist discusses preparation, materials and alternatives. A carefully planned fit and regular maintenance support the restoration over time."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "A weakened or broken tooth, a tooth after root canal treatment, or a missing tooth.",
+      "icon": "tooth",
+      "image": "images/dentistry-equipment.jpg",
+      "alt": "Dental instruments and treatment equipment"
+    },
+    {
+      "slug": "kids-dentistry",
+      "title": "Kids Dentistry",
+      "short": "Gentle, preventive dental care for growing smiles.",
+      "intro": "Gentle, preventive dental care for growing smiles.",
+      "paragraphs": [
+        "Children’s dental care focuses on healthy development, prevention and creating a positive relationship with dental visits. Early attention can help identify concerns before they become more complicated.",
+        "A visit may include a check-up, age-appropriate brushing guidance and a discussion of food habits. Any treatment is explained to parents or carers before proceeding."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Routine children’s check-ups, tooth decay or questions about developing teeth.",
+      "icon": "tooth",
+      "image": "images/dentistry-care.jpg",
+      "alt": "A dental team providing care in a treatment room"
+    },
+    {
+      "slug": "smile-makeover",
+      "title": "Smile Makeover",
+      "short": "A personalised conversation about your smile.",
+      "intro": "A personalised conversation about your smile.",
+      "paragraphs": [
+        "A smile makeover brings together suitable treatments to address concerns about tooth appearance. Oral health is assessed first, with any cosmetic plan tailored to your priorities.",
+        "Your dentist will discuss what you would like to change, the available options and realistic expectations. Treatment may be staged rather than completed in a single visit."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Concerns about the appearance, shape or alignment of your smile.",
+      "icon": "tooth",
+      "image": "images/dentistry-equipment.jpg",
+      "alt": "Dental instruments and treatment equipment"
+    },
+    {
+      "slug": "teeth-whitening",
+      "title": "Teeth Whitening",
+      "short": "Explore professional options for tooth discolouration.",
+      "intro": "Explore professional options for tooth discolouration.",
+      "paragraphs": [
+        "Professional whitening can lighten the colour of natural teeth. Suitability and results vary, and existing fillings, crowns and veneers do not whiten in the same way.",
+        "A dental examination helps identify the cause of staining and check for issues that need attention first. Your dentist will explain the process, possible sensitivity and aftercare."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Tooth staining or discolouration you would like assessed.",
+      "icon": "tooth",
+      "image": "images/dentistry-care.jpg",
+      "alt": "A dental team providing care in a treatment room"
+    },
+    {
+      "slug": "preventive-dentistry",
+      "title": "Preventive Dentistry",
+      "short": "Protect oral health with regular care and education.",
+      "intro": "Protect oral health with regular care and education.",
+      "paragraphs": [
+        "Preventive dentistry combines check-ups, appropriate professional cleaning and daily oral hygiene. The aim is to identify concerns early and reduce the risk of decay and gum problems.",
+        "Your dentist can recommend a review schedule based on your needs and discuss brushing, cleaning between teeth and dietary habits. Prevention is a partnership between you and your dental team."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Routine dental care and advice for maintaining healthy teeth and gums.",
+      "icon": "tooth",
+      "image": "images/dentistry-equipment.jpg",
+      "alt": "Dental instruments and treatment equipment"
+    },
+    {
+      "slug": "advanced-gum-treatment",
+      "title": "Advanced Gum Treatment",
+      "short": "Assessment and care for the tissues supporting your teeth.",
+      "intro": "Assessment and care for the tissues supporting your teeth.",
+      "paragraphs": [
+        "Gum treatment addresses inflammation and infection around the teeth. Early assessment is important because gum disease can progress even when discomfort is limited.",
+        "Your dentist examines the gums and supporting tissues. Care may include professional cleaning, deeper cleaning or specialist treatment, together with a personalised home-care plan."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Bleeding gums, persistent bad breath, gum recession or loose teeth.",
+      "icon": "tooth",
+      "image": "images/dentistry-care.jpg",
+      "alt": "A dental team providing care in a treatment room"
+    },
+    {
+      "slug": "oral-cancer-screening",
+      "title": "Oral Cancer Screening",
+      "short": "An examination for changes in the mouth that need attention.",
+      "intro": "An examination for changes in the mouth that need attention.",
+      "paragraphs": [
+        "Oral cancer screening involves checking the mouth for unusual changes. It is an assessment, not a guarantee that disease is absent; further investigation may be needed for a concerning finding.",
+        "Your dentist examines the oral tissues and asks about symptoms and risk factors. A persistent ulcer, lump or patch should be evaluated rather than ignored."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "A persistent change in the mouth or a wish to discuss oral health risks.",
+      "icon": "tooth",
+      "image": "images/dentistry-equipment.jpg",
+      "alt": "Dental instruments and treatment equipment"
+    },
+    {
+      "slug": "oral-patches-ulcers",
+      "title": "White Patches, Red Patches & Ulcers",
+      "short": "Professional assessment of persistent changes in the mouth.",
+      "intro": "Professional assessment of persistent changes in the mouth.",
+      "paragraphs": [
+        "White or red patches and ulcers can have different causes, from irritation to conditions needing further investigation. A clinical assessment is important when a change persists or repeatedly returns.",
+        "The dentist reviews the area, symptom history and potential triggers. They may recommend monitoring, treatment, a referral or additional testing depending on the findings."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "A mouth ulcer or patch lasting more than two weeks, or a recurring unexplained change.",
+      "icon": "tooth",
+      "image": "images/dentistry-care.jpg",
+      "alt": "A dental team providing care in a treatment room"
+    },
+    {
+      "slug": "tobacco-cessation",
+      "title": "Tobacco Cessation Counseling",
+      "short": "Support for taking a positive step toward oral health.",
+      "intro": "Support for taking a positive step toward oral health.",
+      "paragraphs": [
+        "Tobacco use affects oral and general health. Counseling offers a supportive opportunity to discuss your habits, reasons for stopping and practical ways to move forward.",
+        "Your dental team can discuss oral health risks and help you identify a realistic next step. Depending on your needs, additional medical or specialist support may be recommended."
+      ],
+      "benefits": [
+        "An examination and discussion of your concerns",
+        "A personalised plan with options explained",
+        "Guidance on treatment, aftercare and review"
+      ],
+      "fit": "Anyone who uses tobacco and would like support with stopping.",
+      "icon": "tooth",
+      "image": "images/dentistry-equipment.jpg",
+      "alt": "Dental instruments and treatment equipment"
+    }
+  ],
+  "dentists": [
+    {
+      "slug": "dr-pooja-sinha",
+      "name": "Dr. Pooja M. Sinha",
+      "qualifications": "BDS, MDS",
+      "bio": [
+        "Dr. Pooja M. Sinha completed her dentistry at MJP Rohilkhand University, Bareilly, in 2004 and pursued her master’s degree in dentistry at Dr. Bheemrao Ambedkar University, Agra. Her training included exposure to developing quality dental services and orthognathic surgical cases.",
+        "Her clinic profile describes her role as a professor in Public Dentistry at Sardar Patel Post Graduate Institute of Dental and Medical Sciences since August 2013, teaching BDS students and guiding postgraduate research. It also notes her work as an external examiner for BDS and MDS examinations in 2021.",
+        "Her thesis and research received recognition at the national conference of the Indian Association of Forensic Odontology in 2011. Her interests include orthodontics, academics and tobacco cessation counseling. She places emphasis on patient comfort, clear communication and a considered approach to care."
+      ],
+      "image": "images/dentistry-pooja.jpg"
+    },
+    {
+      "slug": "dr-abhishek-sinha",
+      "name": "Dr. Abhishek Sinha",
+      "qualifications": "BDS, MDS",
+      "bio": [
+        "Born in Lucknow, Dr. Abhishek Sinha completed his MDS in Oral Medicine and Radiology at Saveetha Dental College, Chennai, under Dr. MGR Medical University, Tamil Nadu, in 2007. His dissertation examined the role of C-reactive protein in periodontal diseases.",
+        "His clinic profile describes him as a professor and head of Oral Medicine and Radiology at Sardar Patel Post Graduate Institute of Dental and Medical Sciences, Lucknow, with more than 15 years of undergraduate and postgraduate academic experience. It also describes him as a trained and certified implant dentist with national and international publications.",
+        "His areas of interest include oral mucosal abnormalities, oral cancer, salivary gland disorders and facial pain. The clinic highlights his care for children and patients whose medical conditions require additional treatment considerations, together with his emphasis on explaining problems and procedures clearly."
+      ],
+      "image": "images/dentistry-abhishek.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "images/dentistry-g1.jpg",
+      "title": "Dental treatment room"
+    },
+    {
+      "image": "images/dentistry-g2.jpg",
+      "title": "Dentistry clinic, Indira Nagar"
+    },
+    {
+      "image": "images/dentistry-g3.jpg",
+      "title": "Patient waiting area"
+    },
+    {
+      "image": "images/dentistry-g4.jpg",
+      "title": "Clinic entrance"
+    },
+    {
+      "image": "images/dentistry-g5.jpg",
+      "title": "Consultation room"
+    },
+    {
+      "image": "images/dentistry-g6.jpg",
+      "title": "Comfortable seating at the clinic"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Shobha Gupta",
+      "quote": "Dr is very soft spoken and very nice in nature...he take care of the patient properly... clinic is neat and clean, very hygiene...he did my work with out any delay..I’m feeling better, he did my root canal treatment."
+    },
+    {
+      "name": "Amit Tripathi",
+      "quote": "I’m still in treatment process but I’m happy and satisfied with doctor and his treatment he tried to saved teeth instead of pulling out!"
+    },
+    {
+      "name": "Mr. Arun Kumar Sinha",
+      "quote": "Experienced and explanatory treatment by the Doctor. Well deserved 5 stars. Good analysis of the disease."
+    },
+    {
+      "name": "Vishal Sinha",
+      "quote": "My crown get broken due to my abnormal activities still doctor able to fix it irrespective the suggestions given by some other doctor of tooth implant. He is very polite and suggests me to be prepare if this happen again in near time. I’m happy with his treatment. Thank you doctor."
+    },
+    {
+      "name": "Arunima Shukla",
+      "quote": "I was worried about my tooth in starting because the condition was bad but doctor explained all my issues with solutions and within 2–3 sittings I recovered well."
+    },
+    {
+      "name": "Chandrashekhar Sharma",
+      "quote": "Excellent behavior and did satisfactory job. I highly recommend him for his expert work and friendly nature."
+    },
+    {
+      "name": "S Mohan",
+      "quote": "Very sincere doctor.. explains the problem and treatment procedure in detail.. listens to patients’ problems carefully. Behaviour of doctor and entire staff is excellent."
+    }
+  ],
+  "photos": {
+    "hero": "images/dentistry-hero.jpg",
+    "clinic": "images/dentistry-clinic.jpg",
+    "equipment": "images/dentistry-equipment.jpg",
+    "care": "images/dentistry-care.jpg"
+  }
+}
